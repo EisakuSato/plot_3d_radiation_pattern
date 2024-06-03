@@ -3,6 +3,8 @@ Pythonで3dアンテナパターンを描画する
 
 ## 事前準備
 mayaviというライブラリをインストールしておくこと
+Python 3.11.5以前でないと動かないかも
+(Python 3.11.7ではmayaviインストール時にエラーが生じた)
 https://mayavi.readthedocs.io/ja/latest/
 
 
